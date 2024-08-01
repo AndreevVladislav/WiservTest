@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bonsai?ysclid=lz6vktl3qu653093956",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rishi420/Bonsai?ysclid=lz6vktl3qu653093956",
+      "state" : {
+        "revision" : "5b61a864a7b8a929e5e45ee0195dff88917e10f1",
+        "version" : "7.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
