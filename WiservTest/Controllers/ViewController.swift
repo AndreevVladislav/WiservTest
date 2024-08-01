@@ -601,6 +601,7 @@ extension ViewController {
             buttonOfflineNal.removeFromSuperview()
             switchCard.removeFromSuperview()
             switchNal.removeFromSuperview()
+            changeLable.removeFromSuperview()
             self?.paymentView.addSubview(buttonAddCard)
             
             buttonAddCard.leadingAnchor.constraint(equalTo: self!.paymentView.leadingAnchor, constant: 16).isActive = true
